@@ -1,5 +1,6 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-openvino-dev[pytorch]==2023.2.0
-torch==2.1.0
-nncf==2.7.0
+nncf==2.8.0
+opencv-python==4.9.0.80
+openvino==2023.3.0
 timm==0.9.12
+torch==2.1.2
